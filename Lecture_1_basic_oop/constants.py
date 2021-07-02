@@ -1,0 +1,1 @@
+INITAIL_X_VALUE = 5
